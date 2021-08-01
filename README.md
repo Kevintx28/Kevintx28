@@ -26,7 +26,18 @@ Here are some ideas to get you started:
 <div align="center">
     <a href="https://discord.gg/UCvkguu5" target="_blank"><img src="https://shields.io/badge/Grupo de Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Kevintx28" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
-    
+    <html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Prueba WhatsApp</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<a href="https://wa.me/5211234567890?text=Me%20gustaría%20saber%20el%20precio%20del%20coche" class="whatsapp" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+	
+</body>
+</html>
 </div>
 
 
