@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 <br> 
 
+### About me;
+	
+	Hola...! Mi nombre es Kevin Naiyel, Estoy estudiando para ser un desarollador de videojuegos ;) 
+    Comenzare empezando a dominar el lenguaje de programacion Java.
 
 <div align="center">
     <a href="https://discord.gg/UCvkguu5" target="_blank"><img src="https://shields.io/badge/Grupo de Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
@@ -23,7 +27,4 @@ Here are some ideas to get you started:
     
 </div>
 
-### About me;
-	
-	Hola...! Mi nombre es Kevin Naiyel, Estoy estudiando para ser un desarollador de videojuegos ;) 
-    Comenzare empezando a dominar el lenguaje de programacion Java.
+
