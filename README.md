@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a Todos...!
 
 <!--
 **Kevintx28/Kevintx28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-<h1>Favilances (P.A.$$$.A)</h1>
+<br> 
 
 
 <div align="center">
@@ -26,5 +25,5 @@ Here are some ideas to get you started:
 
 ### About me;
 	
-	Hola...! Mi nombre es kevin, Estoy estudiando para ser un desarollador de videojuegos ;) 
-    estoy empezando a dominar el lenguaje de programacion Java 
+	Hola...! Mi nombre es Kevin Naiyel, Estoy estudiando para ser un desarollador de videojuegos ;) 
+    Comenzare empezando a dominar el lenguaje de programacion Java.
