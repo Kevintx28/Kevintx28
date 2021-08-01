@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" 
-        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1
+        src="https://www.facebook.com/kevin.tola.77
              &version={graph-api-version}
              &appId={your-facebook-app-id}
              &autoLogAppEvents=1" 
