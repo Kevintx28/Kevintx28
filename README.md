@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="https://discord.gg/UCvkguu5" target="_blank"><img src="https://shields.io/badge/Grupo de Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Kevintx28" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github">
     <a href="https://www.facebook.com/kevin.tola.77" target="_blank"><img src="https://shields.io/badge/FaceBook-111111.svg?&style=for-the-badge&logo=facebook"></a>
-    <a href="https://github.com/Kevintx28" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.twitch.tv/kevintx28" target="_blank"><img src="https://shields.io/badge/Twitch-111111.svg?&style=for-the-badge&logo=github"></a>
     
 </div>
 
