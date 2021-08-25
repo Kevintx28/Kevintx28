@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Sobre mi:
 	
 	Hola...! Mi nombre es Kevin Naiyel, Estoy estudiando para ser un desarollador de videojuegos ;) 
-    Comenzare empezando a dominar el lenguaje de programacion Java.
+    Comenzare empezando a dominar el lenguaje de programacion Java 😄
 
 ### Redes sociales al los que siempre estoy activo
 
