@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 </details>
 
-feel free to ask me anything via email/tlg/discord or [issue on this repo](https://github.com/ktwzk/ktwzk) 
 
 
 
