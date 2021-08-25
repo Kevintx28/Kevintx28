@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ### Redes sociales al los que siempre estoy activo
 
-<summary>links</summary>
 
 <details>
 <summary>links</summary>
