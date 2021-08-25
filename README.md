@@ -23,27 +23,30 @@ Here are some ideas to get you started:
 
 ### Redes sociales al los que siempre estoy activo
 
-<div align="center">
-    <a href="https://discord.gg/UCvkguu5" target="_blank"><img src="https://shields.io/badge/Grupo de Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Kevintx28" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github">
-    <a href="https://www.facebook.com/kevin.tola.77" target="_blank"><img src="https://shields.io/badge/FaceBook-111111.svg?&style=for-the-badge&logo=facebook"></a>
-    <a href="https://www.twitch.tv/kevintx28" target="_blank"><img src="https://shields.io/badge/twitch-111111.svg?&style=for-the-badge&logo=twitch"></a>
-    <a href="https://www.twitch.tv/kevintx28" target="_blank"><img src="https://shields.io/badge/twitch-111111.svg?&style=for-the-badge&logo=twitch"></a>
-    
-</div>
-
-#
+<summary>links</summary>
 
 <details>
 <summary>links</summary>
 <br>
 
-# hola 
+<div align="center">
+    <a href="https://discord.gg/UCvkguu5" target="_blank"><img src="https://shields.io/badge/Grupo de Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Kevintx28" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github">
+    <a href="https://www.facebook.com/kevin.tola.77" target="_blank"><img src="https://shields.io/badge/FaceBook-111111.svg?&style=for-the-badge&logo=facebook"></a>
+    <a href="https://www.twitch.tv/kevintx28" target="_blank"><img src="https://shields.io/badge/twitch-111111.svg?&style=for-the-badge&logo=twitch"></a>
 
-<h6> hola </h6>
+</div>
+  
+**follow/like:** <a href="https://twitter.com/vilkastakan">twitter</a>, <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://behance.net/vilkastakan">behance</a>, <a href="https://glitch.com/@vilkastakan">glitch</a>
 
+**listen to:** listen to: <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/vilkastakan">mixcloud</a>, <a href="https://soundcloud.com/vilkastakan">soundcloud</a>
+    
+
+**contact:** <a href="mailto:vik@ktwzk.me">vik@ktwzk.me</a> (<a href="https://keybase.io/ktwzk">PGP</a>), tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a>
 
 </details>
+
+feel free to ask me anything via email/tlg/discord or [issue on this repo](https://github.com/ktwzk/ktwzk) 
 
 
 
