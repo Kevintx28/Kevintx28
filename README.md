@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### Redes sociales al los que siempre estoy activo
 
+<iframe width="2385" height="1095" src="https://www.youtube.com/embed/9sbqtRbUr_w" title="Mi voz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
 <summary>links</summary>
