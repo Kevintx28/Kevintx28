@@ -11,13 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-<br> 
-
-### Sobre mi:
-	
-	Hola...! Mi nombre es Kevin Naiyel, Estoy estudiando para ser un desarollador de videojuegos ;) 
-    Comenzare empezando a dominar el lenguaje de programacion Java 😄
-
+<br>
 ### Redes sociales al los que siempre estoy activo
 
 
