@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <br>
 ### Redes sociales al los que siempre estoy activo
-
+<br>
 
 <details>
 <summary>links</summary>
